@@ -1,0 +1,4 @@
+### Docker-Compose ###
+
+# Exclude .env file from git
+.env
